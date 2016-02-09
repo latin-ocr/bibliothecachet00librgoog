@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "bibliothecachet00librgoog_0012.png"; bbox 0 0 3024 4840; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 279 1745 1142 1840">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 279 1745 1142 1840">
+     <span class='ocr_line' id='line_1_1' title="bbox 279 1745 1142 1840; baseline -0.008 -10"><span class='ocrx_word' id='word_1_1' title='bbox 279 1749 653 1832; x_wconf 87' lang='lat' dir='ltr'><strong>BIBLIOTHECAE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 710 1745 1142 1840; x_wconf 82' lang='lat' dir='ltr'>CHETHAMENSIS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 596 1992 832 2054">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 596 1992 832 2054">
+     <span class='ocr_line' id='line_1_2' title="bbox 596 1992 832 2054; baseline 0.013 -4"><span class='ocrx_word' id='word_1_3' title='bbox 596 1992 752 2051; x_wconf 89' lang='lat' dir='ltr'>PARS</span> <span class='ocrx_word' id='word_1_4' title='bbox 792 1995 832 2054; x_wconf 90' lang='lat'>11.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 253 2203 1180 2417">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 253 2203 1180 2417">
+     <span class='ocr_line' id='line_1_3' title="bbox 253 2203 1180 2292; baseline -0.009 -6"><span class='ocrx_word' id='word_1_5' title='bbox 253 2213 472 2286; x_wconf 73' lang='lat' dir='ltr'><strong>CoNTmENs</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 506 2207 708 2280; x_wconf 68' lang='lat' dir='ltr'>ScmNms</span> <span class='ocrx_word' id='word_1_7' title='bbox 750 2231 795 2277; x_wconf 74' lang='grc' dir='ltr'>ετ</span> <span class='ocrx_word' id='word_1_8' title='bbox 830 2207 970 2292; x_wconf 74' lang='lat' dir='ltr'><strong>Ams,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1012 2203 1180 2278; x_wconf 71' lang='lat' dir='ltr'>mes</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 293 2327 1137 2417; baseline -0.006 -14"><span class='ocrx_word' id='word_1_10' title='bbox 293 2330 568 2417; x_wconf 63' lang='lat' dir='ltr'>Hummoms,</span> <span class='ocrx_word' id='word_1_11' title='bbox 596 2353 640 2400; x_wconf 78' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_12' title='bbox 659 2327 801 2400; x_wconf 77' lang='lat' dir='ltr'>L113Ros</span> <span class='ocrx_word' id='word_1_13' title='bbox 820 2327 1137 2399; x_wconf 64' lang='lat' dir='ltr'><strong>MAxuscmTos.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1516 4840">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1516 4840">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1516 4840; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1516 4840; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
